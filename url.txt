@@ -1,2 +1,9 @@
-URL : TMD
+URL : 
+TMD
 http://data.tmd.go.th/api/WeatherToday/V1/
+
+anaconda
+https://www.anaconda.com/download/
+
+Python Introduction
+https://medium.com/@chaweewat.p
