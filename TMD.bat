@@ -1,1 +1,1 @@
-C:\Users\sattawat.a\Anaconda3\envs\bb\python.exe C:\Users\sattawat.a\Desktop\Python\TMD\TMD.py %*
+C:\Users\TEERAWAT.KT\AppData\Local\conda\conda\envs\test12\python.exe C:\Users\TEERAWAT.KT\Desktop\Pythpn\test\TMD.py %*
